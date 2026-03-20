@@ -1,0 +1,28 @@
+# Hotel Performance Dashboard (Power BI)
+
+## 📊 Project Overview
+This project analyzes hotel performance using key metrics like Revenue, ADR, RevPAR, and Occupancy Rate.
+
+## 🎯 Objective
+To help stakeholders:
+- Monitor hotel performance
+- Make data-driven decisions
+- Identify growth opportunities
+
+## 📌 Key Metrics
+- Revenue
+- ADR (Average Daily Rate)
+- RevPAR (Revenue Per Available Room)
+- Occupancy %
+
+## 🛠 Tools Used
+- Power BI
+- Excel
+
+## 📷 Dashboard Preview
+(Add your screenshot here)
+
+## 💡 Insights
+- City A generates highest revenue
+- Weekends show higher occupancy
+- Seasonal trends observed
